@@ -8,11 +8,11 @@
     "ad_network": [
       {
         "name": "admob",
-        "value": 10,
+        "value": 0,
 
         "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "-",
+        "banner": "off",
+        "mrec": "off",
         "inter": "ca-app-pub-2866997774486749/5025393799",
         "native_ad": "ca-app-pub-2866997774486749/4067535344",
         "open_ad": "ca-app-pub-2866997774486749/7731013723",
@@ -20,11 +20,11 @@
       },
       {
         "name": "max",
-        "value": 1,
+        "value": 0,
 
         "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "-",
+        "banner": "off",
+        "mrec": "off",
         "inter": "d264103b894cb579",
         "native_ad": "5aee95d276745974",
         "open_ad": "889e1ee54e414abb",
